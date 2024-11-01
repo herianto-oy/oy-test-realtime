@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates xml:space="preserve">
+    <t t-name="oy_test_realtime.TemplateOyRealtime">
+        <div>
+            <p> Number trigger by bus: <t t-esc="state.count"/></p>
+        </div>
+    </t>
+</templates>
